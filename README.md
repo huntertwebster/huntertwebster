@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Hunter Webster and I am a student at Emerging Digital Academy studying Full Stack Development (PERN) 👋
 
 <!--
 **huntertwebster/huntertwebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
